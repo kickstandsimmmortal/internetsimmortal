@@ -16,7 +16,7 @@ timezone: America/New York
 
 title: Kickstand # the main title
 
-tagline: # it will display as the subtitle
+tagline: software prince # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A corner of the internet for me to track my studies
