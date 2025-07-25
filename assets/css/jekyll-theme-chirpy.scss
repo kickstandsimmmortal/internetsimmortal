@@ -1,0 +1,43 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+.site-title {
+  color: greenyellow !important;
+}
+
+.site-subtitle {
+  color: white !important;
+}
+
+.nav-link {
+  color: white !important;
+}
+
+.content {
+  color: white !important;
+}
+
+.rouge-code {
+  color: greenyellow !important;
+}
+
+h1 {
+  color: greenyellow !important;
+}
+
+.fab, .fa-github, .fa-brands, .fa-x-twitter, .fas, .fa-envelope, .fa-rss {
+  color: greenyellow !important;
+}
+
+.card-title, .card-text {
+  color: greenyellow !important;
+}
