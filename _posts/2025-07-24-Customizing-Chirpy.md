@@ -27,7 +27,7 @@ That was labeled as ``site-title``, added that to my ``.scss`` file and boom, no
 
 ![source](/assets/img/inspect2.png)
 
-Did the same thing the icons, the headers, the regular text, and the code text as well with no issues until...I got to the preview post boxes for the home page. 
+Did the same thing with the icons, the headers, the regular text, and the code text as well with no issues until...I got to the preview post boxes for the home page. 
 
 ![post-preview](/assets/img/post_preview.png)
 
