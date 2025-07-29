@@ -12,9 +12,13 @@ I knew the drive had to be initialized, but just searching Disk Management didn'
 First I tried cleaning the disk with ``diskpart`` in Command Prompt as admin
 
 ``diskpart``
+
 ``list disk``
-``select disk #``
+
+``select disk ``
+
 ``clean``
+
 ``exit``
 
 It claimed to have successfully cleaned the disk but it still wouldn't let me initialize it from the Windows settings.
