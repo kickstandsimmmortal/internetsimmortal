@@ -29,9 +29,9 @@ If you want to use other tools to identify the hash, you can set `john` to a spe
 
 Some tools to identify hashes:
 
-https://hashes.com/en/tools/hash_identifier
+[hashes.com](https://hashes.com/en/tools/hash_identifier)
 
-https://gitlab.com/kalilinux/packages/hash-identifier/-/tree/kali/master
+[Hash-Identifier Python](https://gitlab.com/kalilinux/packages/hash-identifier/-/tree/kali/master)
 
 To use the hash-identifier python tool from the GitHub link above, we can use `wget` or `curl` to download the Python file `hash-id.py` and launch it with `python3 hash-id.py`. Then you can just enter the hash and it will give you a list of all the possible formats.
 
@@ -222,7 +222,7 @@ Custom rules are defined in the `john.conf` file. This file can be found in `/et
 
 You can refer to the docs for the syntax to create rules:
 
-https://www.openwall.com/john/doc/RULES.shtml
+[`john` Custom Rules Docs](https://www.openwall.com/john/doc/RULES.shtml)
 
 To call up a rule you've created, you can use the flag `--rule=<rulename>`
 
