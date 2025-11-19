@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: kickstand # the main title
 
-tagline: software prince # it will display as the subtitle
+tagline: software shaman # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A documentation website to track my learning in coding, hacking, linux and more.
