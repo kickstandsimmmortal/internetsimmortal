@@ -32,7 +32,7 @@ Answer: 3
 
 **Challenge:**
 
->*What is this machine vulnerable to? (Answer in the form of: ms??-???)
+>*What is this machine vulnerable to? (Answer in the form of: ms??-???)*
 
 The nmap scan showed two different vulnerabilities. `MS12-020` and `MS17-010`
 Answer: MS17-010
@@ -95,7 +95,7 @@ Set the one option required to set, which is the SESSION option. And then `run` 
 
 **Challenge:**
 
->*Verify that we have escalated to `NT AUTHORITY\SYSTEM`
+>*Verify that we have escalated to `NT AUTHORITY\SYSTEM`*
 
 There are two ways to do this. You can use Meterpreter's `getuid` command if in a Meterpreter shell. 
 
